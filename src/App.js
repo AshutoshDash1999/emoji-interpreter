@@ -38,7 +38,7 @@ function App() {
       <header className="App-header">
         <h1>Emoji Interpreter</h1>
         <input type="text" onChange = {emojiInputHandler} placeholder="type emoji here"/>
-        <p>{emojiMeaning}</p>
+        <p>Meaning &#8594;{emojiMeaning}</p>
         <h3>Available emojis:</h3>
         <ul>
           {
