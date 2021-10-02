@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Emoji Interpreter
+
+Search for the emoji meaning and see the meaning of selected emoji(s).
+
+Try the app [here](https://emojy-interpreter.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
